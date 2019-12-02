@@ -1,0 +1,12 @@
+C:\Users\ejmar\source\repos\IngresaDatos\IngresaDatos\bin\Debug\netstandard2.0\IngresaDatos.deps.json
+C:\Users\ejmar\source\repos\IngresaDatos\IngresaDatos\bin\Debug\netstandard2.0\IngresaDatos.dll
+C:\Users\ejmar\source\repos\IngresaDatos\IngresaDatos\bin\Debug\netstandard2.0\ref\IngresaDatos.dll
+C:\Users\ejmar\source\repos\IngresaDatos\IngresaDatos\bin\Debug\netstandard2.0\IngresaDatos.pdb
+C:\Users\ejmar\source\repos\IngresaDatos\IngresaDatos\obj\Debug\netstandard2.0\IngresaDatos.csprojAssemblyReference.cache
+C:\Users\ejmar\source\repos\IngresaDatos\IngresaDatos\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ejmar\source\repos\IngresaDatos\IngresaDatos\obj\Debug\netstandard2.0\IngresaDatos.AssemblyInfoInputs.cache
+C:\Users\ejmar\source\repos\IngresaDatos\IngresaDatos\obj\Debug\netstandard2.0\IngresaDatos.AssemblyInfo.cs
+C:\Users\ejmar\source\repos\IngresaDatos\IngresaDatos\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ejmar\source\repos\IngresaDatos\IngresaDatos\obj\Debug\netstandard2.0\IngresaDatos.dll
+C:\Users\ejmar\source\repos\IngresaDatos\IngresaDatos\obj\Debug\netstandard2.0\ref\IngresaDatos.dll
+C:\Users\ejmar\source\repos\IngresaDatos\IngresaDatos\obj\Debug\netstandard2.0\IngresaDatos.pdb
